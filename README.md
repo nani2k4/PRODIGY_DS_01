@@ -67,11 +67,5 @@ Contributions are encouraged! Whether you want to enhance the analysis or add ne
 - Open issues to discuss potential changes.
 - Submit pull requests to collaborate on improvements.
 
-## 📬 Contact
-
-Questions or suggestions? Reach out to me:
-
-- **ANIL KUMAR NALLA**
-- **Email:** [nalla.anil94@gmail.com](mailto:nalla.anil94@gmail.com)
 
 Explore the world's data, analyze global trends, and uncover the stories within the World Bank Group dataset! 🌍📊
